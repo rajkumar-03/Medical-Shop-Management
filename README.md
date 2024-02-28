@@ -1,5 +1,5 @@
-# pharmacy-manage-system
-pharmacy-management-system php
+
+Medical-Shop-management-system php
   
  ##   Install xampp server with php7 version or higher
  
